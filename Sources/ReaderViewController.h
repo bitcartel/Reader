@@ -74,4 +74,6 @@
 
 - (id)initWithReaderDocument:(ReaderDocument *)object;
 
+- (NSInteger)currentPageNumber;
+
 @end

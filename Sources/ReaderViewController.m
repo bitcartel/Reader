@@ -1046,4 +1046,10 @@
 	}
 }
 
+#pragma mark -
+
+- (NSInteger)currentPageNumber {
+    return currentPage;
+}
+
 @end
